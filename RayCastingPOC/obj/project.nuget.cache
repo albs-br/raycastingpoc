@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLC7MIaAvSgk4GO/IDMYv717S2CdyyunHkDTTNstsES/LpoFlEQc87SLprbJCSzjJnbXRC+CjiRCVZSR6oO5CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albs_\\source\\repos\\raycastingpoc\\RayCastingPOC\\RayCastingPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albs_\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\albs_\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\albs_\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
